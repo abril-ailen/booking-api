@@ -1,4 +1,4 @@
-package com.illarra_abril.booking_api;
+package com.abrilailen.bookingapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
