@@ -14,10 +14,9 @@ import lombok.NoArgsConstructor;
 public class ProfessionalResponseDTO {
 
     private Long id;
-    private String fullName;
+    private String firstName;
+    private String lastName;
     private String specialty;
     private LocalTime startTime;
     private LocalTime endTime;
-    private Boolean isActive;
-    private String email;
 }
